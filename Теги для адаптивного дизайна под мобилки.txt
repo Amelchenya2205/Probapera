@@ -1,0 +1,7 @@
+Рекомендованный набор метатегов
+Используемый набор meta-тегов для сайтов с адаптивным дизайном, заточенным под мобильные устройства:
+
+<meta name='viewport' content='width=device-width,initial-scale=1'/>           Meta-тег viewport сообщает браузеру о том, как именно обрабатывать размеры страницы, и изменять её масштаб. Этот тег необходимо добавлять в секцию HEAD.
+<meta content='true' name='HandheldFriendly'/>
+<meta content='width' name='MobileOptimized'/>                                 Задаёт ширину области просмотра в мобильных браузеров IE Mobile или Pocket IE. Является аналогом атрибута width в meta-теге viewport.
+<meta content='yes' name='apple-mobile-web-app-capable'/>
