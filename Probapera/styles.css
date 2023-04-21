@@ -1,0 +1,86 @@
+h1.space {
+    color: aliceblue;
+    font-size: 30px;}
+
+p.zagol {
+    color: crimson;
+    font-size: 26px;
+}
+
+li.odin {
+    color:aqua;
+    font-size: 24px}
+
+li.dva {
+    color:rgb(32, 87, 87);
+    font-size: 24px}
+
+li.tri {
+    color:rgb(187, 196, 196);
+    font-size: 24px}
+
+
+#second {
+    margin-top: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;}
+
+table th {
+    color: crimson;}
+
+tr > td {
+    color:rgb(49, 211, 223);}
+
+strong + b {
+    color: rgb(2, 4, 7);}
+        
+em {
+    color: rgb(44, 53, 170);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;}
+
+#third {color}
+
+strong a {
+    color: darkviolet;
+    font-size: 22px;}
+
+b a {
+    color: chocolate;
+    font-size: 22px;}
+
+a:hover {color: green}
+
+input:hover {color: brown;}
+
+body {
+    background-image: url("https://static.dw.com/image/19055406_605.jpg"); no-repeat;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    -moz-background-size: 100%;
+    -ms-background-size: 100%;
+    -khtml-background-size: 100%;
+    background-size: 100%;
+}
+
+p.abzac {font-size: 20px;}
+
+p.abzac:after {content: " - asjhljahjzvkbkjajkfhaslcbkhgkdljjdgfaljja";
+color: crimson;
+font-size: 16px;}
+
+H2, H3, H4 { 
+    font-family: Arial, Helvetica, sans-serif; 
+  } 
+  H2 { 
+    font-size: 160%; 
+    color: #003;
+  }
+  H3 { 
+    font-size: 135%; 
+    color: #333;
+  }
+  H4 { 
+    font-size: 120%; 
+    color: #900;
+  }
